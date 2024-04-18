@@ -35,6 +35,8 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. S. Hailey-Dunsheath et al. (including **N. F. Cothard**) "Characterization of a Far-Infrared Kinetic Inductance Detector Prototype for PRIMA", IEEE Transactions on Terahertz Science and Technology (in review, 2024), [arXiv:2311.03586](https://arxiv.org/abs/2311.03586)
+
 1. L. Foote et al. (including **N. F. Cothard**) "High-sensitivity Kinetic Inductance Detector Arrays for the Probe Far-Infrared Mission for Astrophysics", Journal of Low Temperature Physics (2024), [DOI](https://doi.org/10.1007/s10909-023-03041-6), [arxiv:2311.02175](https://arxiv.org/abs/2311.02175)
 
 1. J. Perido et al. (including **N. F. Cothard**) "Parallel-Plate Capacitor Titanium Nitride Kinetic Inductance Detectors for Infrared Astronomy", Journal of Low Temperature Physics (in review, 2023), [arxiv:2312.17378](https://arxiv.org/abs/2312.17378)
