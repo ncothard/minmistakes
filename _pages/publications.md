@@ -9,7 +9,7 @@ author_profile: true
 ### Main-Author Papers
 
 {: reversed="reversed"}
-1. P. K. Day, **N. F. Cothard**, et al. "A 25-micron Single Photon Sensitive Kinetic Inductance Detector", Nature Astronomy (in review, 2024,) [arXiv:2404.10246](https://arxiv.org/abs/2404.10246)
+1. P. K. Day, **N. F. Cothard**, et al. "A 25-micron Single Photon Sensitive Kinetic Inductance Detector", PRX (in review, 2024,) [arXiv:2404.10246](https://arxiv.org/abs/2404.10246)
 
 1. **N. F. Cothard** et al. "Parallel Plate Capacitor Aluminum KIDs for Future Far-Infrared Space-Based Observatories", Journal of Low Temperature Physics (2024), [DOI](https://doi.org/10.1007/s10909-023-03039-0), [arXiv:2311.00773](https://arxiv.org/abs/2311.00773)
 
