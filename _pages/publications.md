@@ -39,15 +39,15 @@ author_profile: true
 
 1. L. Foote et al. (including **N. F. Cothard**) "High-sensitivity Kinetic Inductance Detector Arrays for the Probe Far-Infrared Mission for Astrophysics", Journal of Low Temperature Physics (2024), [DOI](https://doi.org/10.1007/s10909-023-03041-6), [arxiv:2311.02175](https://arxiv.org/abs/2311.02175)
 
-1. J. Perido et al. (including **N. F. Cothard**) "Parallel-Plate Capacitor Titanium Nitride Kinetic Inductance Detectors for Infrared Astronomy", Journal of Low Temperature Physics (in review, 2023), [arxiv:2312.17378](https://arxiv.org/abs/2312.17378)
+1. J. Perido et al. (including **N. F. Cothard**) "Parallel-Plate Capacitor Titanium Nitride Kinetic Inductance Detectors for Infrared Astronomy", Journal of Low Temperature Physics (2024), [DOI](https://doi.org/10.1007/s10909-024-03101-5), [arxiv:2312.17378](https://arxiv.org/abs/2312.17378)
 
 1. E. Kane et al. (including **N. F. Cothard**) "Modeling of Cosmic Rays and Near-IR photons in aluminum KIDs", Journal of Low Temperature Physics (2024), [DOI](https://doi.org/10.1007/s10909-023-03044-3), [arxiv:2311.04859](https://arxiv.org/abs/2311.04859)
 
-1. W. Coulton et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: High-resolution component-separated maps across one-third of the sky", PhysRevD (in review, 2023), [arXiv:2307.01258](https://arxiv.org/abs/2307.01258)
+1. W. Coulton et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: High-resolution component-separated maps across one-third of the sky", PhysRevD (2024), [DOI](https://doi.org/10.1103/PhysRevD.109.063530), [arXiv:2307.01258](https://arxiv.org/abs/2307.01258)
 
-1. M. Madhavacheril et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters", ApJ (in press, 2023), [arXiv:2304.05203](https://arxiv.org/abs/2304.05203)
+1. M. Madhavacheril et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters", ApJ (2024), [DOI](https://doi.org/10.3847/1538-4357/acff5f), [arXiv:2304.05203](https://arxiv.org/abs/2304.05203)
 
-1. F. Qu et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the DR6 CMB Lensing Power Spectrum and its Implications for Structure Growth", ApJ (in review, 2023), [arXiv:2304.05202](https://arxiv.org/abs/2304.05202)
+1. F. Qu et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the DR6 CMB Lensing Power Spectrum and its Implications for Structure Growth", ApJ (2024), [DOI](https://doi.org/10.3847/1538-4357/acfe06), [arXiv:2304.05202](https://arxiv.org/abs/2304.05202)
 
 1. J. Perido et al. (including **N. F. Cothard**) "Cross-slot Metal-mesh Bandpass Filters for Far-Infrared Astronomy", Proc. SPIE (2022), [DOI](https://doi.org/10.1117/12.2630571), [arXiv:2312.15085](https://arxiv.org/abs/2312.15085)
 

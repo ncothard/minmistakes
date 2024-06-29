@@ -5,9 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-- **3D Microwave Kinetic Inductance Detectors**, SPIE Astronomical Telescopes and Instrumentation 2024, Yokohama, Japan (June 2024) [Slides]({{site.url}}/download/SPIE2024_3DMKIDs_Cothard.pdf)
+- **3D Microwave Kinetic Inductance Detectors**, SPIE Astronomical Telescopes and Instrumentation 2024, Yokohama, Japan (June 2024, [Slides]({{site.url}}/download/SPIE2024_3DMKIDs_Cothard.pdf))
 
-- **Kilopixel Silicon Microlens Arrays for PRIMA Detector Arrays**, SPIE Astronomical Telescopes and Instrumentation 2024, Yokohama, Japan (June 2024) [Slides]({{site.url}}/download/SPIE2024_Microlens_Cothard.pdf)
+- **Kilopixel Silicon Microlens Arrays for PRIMA Detector Arrays**, SPIE Astronomical Telescopes and Instrumentation 2024, Yokohama, Japan (June 2024, [Slides]({{site.url}}/download/SPIE2024_Microlens_Cothard.pdf))
 
 - **NGC 4258: A Laboratory for AGN and Star Formation Impacts on the ISM**, The 243rd Meeting of the American Astronomical Society, New Orleans, LA (January 2024, [poster PDF]({{site.url}}/download/Cothard_AAS243_NGC4258_v4.pdf))
 
