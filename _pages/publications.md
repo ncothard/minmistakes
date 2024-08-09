@@ -35,6 +35,8 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. E. Kane et al. (including **N. F. Cothard**) "Development of an Ultra-Sensitive 210-micron Array of KIDs for Far-IR Astronomy", Proc. SPIE (2024), [arXiv:2408.03859](https://arxiv.org/abs/2408.03859)
+
 1. S. Hailey-Dunsheath et al. (including **N. F. Cothard**) "Characterization of a Far-Infrared Kinetic Inductance Detector Prototype for PRIMA", IEEE Transactions on Terahertz Science and Technology (in review, 2024), [arXiv:2311.03586](https://arxiv.org/abs/2311.03586)
 
 1. L. Foote et al. (including **N. F. Cothard**) "High-sensitivity Kinetic Inductance Detector Arrays for the Probe Far-Infrared Mission for Astrophysics", Journal of Low Temperature Physics (2024), [DOI](https://doi.org/10.1007/s10909-023-03041-6), [arxiv:2311.02175](https://arxiv.org/abs/2311.02175)
