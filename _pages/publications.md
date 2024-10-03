@@ -35,7 +35,7 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
-1. J. Perido et al. (including **N. F. Cothard**) "Metal-mesh linear variable bandpass filter for far-infrared wavelengths", Applied Optics (2024), [DOI:10.1364/AO.534805](https://doi.org/10.1364/AO.534805)
+1. J. Perido et al. (including **N. F. Cothard**) "Metal-mesh linear variable bandpass filter for far-infrared wavelengths", Applied Optics (2024), [DOI:10.1364/AO.534805](https://doi.org/10.1364/AO.534805), [arXiv:2410.00826)](https://arxiv.org/abs/2410.00826)
 
 1. E. Kane et al. (including **N. F. Cothard**) "Development of an Ultra-Sensitive 210-micron Array of KIDs for Far-IR Astronomy", Proc. SPIE (2024), [arXiv:2408.03859](https://arxiv.org/abs/2408.03859)
 
